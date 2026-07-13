@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NEON ARCADE — 15 Games</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="stars"></canvas>
+  <header>
+    <div class="title">NEON ARCADE</div>
+    <div class="sub">15 FULLY PLAYABLE GAMES</div>
+    <div style="display: flex; justify-content: center;">
+      <div class="hbar">
+        <div><div class="hlbl">Games</div><div class="hval">15</div></div>
+        <div><div class="hlbl">Best</div><div class="hval" id="gbest">0</div></div>
+        <div><div class="hlbl">Played</div><div class="hval" id="gplayed">0</div></div>
+      </div>
+    </div>
+  </header>
+  <div class="grid" id="ggrid"></div>
+  <div id="ov">
+    <div id="modal">
+      <div id="mhead">
+        <div id="mtitle">GAME</div>
+        <button id="mclose">X</button>
+      </div>
+      <div id="mbody">
+        <div id="mscore">SCORE: 0</div>
+        <div id="gcw"></div>
+        <div class="brow" id="brow"></div>
+        <div id="mctrl"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -12,12 +12,15 @@
 
 > A single-page, no-build arcade hub built with vanilla HTML, CSS, and JavaScript — 15 fully playable classic and original games behind one neon-themed launcher screen.
 
+**[🎮 Play Live](https://akshatsingh1427.github.io/NeonArcade/)**
+
 </div>
 
 ---
 
 ## Table of Contents
 
+- [Live Demo](#-live-demo)
 - [What It Is](#what-it-is)
 - [Games Included](#games-included)
 - [File Structure](#file-structure)
@@ -25,6 +28,14 @@
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
 - [Notes](#notes)
+
+---
+
+## 🌐 Live Demo
+
+**[https://akshatsingh1427.github.io/NeonArcade/](https://akshatsingh1427.github.io/NeonArcade/)**
+
+Hosted on GitHub Pages — open the link and start playing, no setup required.
 
 ---
 

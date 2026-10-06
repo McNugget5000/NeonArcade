@@ -311,3 +311,24 @@
       display: block;
       max-width: 100%;
     }
+/* NEW GAME PREVIEWS */
+
+.p16 {
+  background: linear-gradient(135deg, #2a1200, #5c2a00);
+}
+
+.p17 {
+  background: linear-gradient(135deg, #001a00, #004d00);
+}
+
+.p18 {
+  background: linear-gradient(135deg, #001a33, #003366);
+}
+
+.p19 {
+  background: linear-gradient(135deg, #001a10, #004422);
+}
+
+.p20 {
+  background: linear-gradient(135deg, #2b1700, #5a2d00);
+}
